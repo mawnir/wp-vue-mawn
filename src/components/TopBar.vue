@@ -6,7 +6,7 @@
           name: 'home'
         }"
       >
-        WP Vue
+        Mawn WP Vue
       </router-link>
     </h1>
 
